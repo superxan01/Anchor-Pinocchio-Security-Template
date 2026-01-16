@@ -198,7 +198,7 @@ Click any example to dive into the code and detailed explanations:
 ## Repository Structure
 
 ```
-solana-security-patterns/
+Anchor-Pinocchio-Security-Template/
 │
 ├── README.md                          # You are here
 ├── ANCHOR_VS_PINOCCHIO.md            # Framework comparison
